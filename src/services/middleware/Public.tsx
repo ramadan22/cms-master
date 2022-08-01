@@ -1,4 +1,4 @@
-export {}
+export {};
 // import { GetStorage } from '../../helpers/local-storage';
 
 // const Public = (to: any, from: any, next: any) => {

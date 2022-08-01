@@ -1,4 +1,4 @@
-export {}
+export {};
 // import { GetStorage } from '../../helpers/local-storage';
 // import applicationRole from '../../constants/roles.json';
 
