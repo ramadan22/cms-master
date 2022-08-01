@@ -4,7 +4,7 @@ export const SetStorage = (key, value) => {
   } catch (e) {
     //
   }
-}
+};
 
 export const GetStorage = (key) => {
   try {
@@ -12,12 +12,12 @@ export const GetStorage = (key) => {
   } catch (e) {
     return null;
   }
-}
+};
 
-export const ReportStorage = (key) => {
+export const RemoveStorage = (key) => {
   try {
     localStorage.removeItem(key);
   } catch (e) {
-
+    //
   }
-}
+};

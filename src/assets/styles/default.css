@@ -1,0 +1,11 @@
+#__react-alert__ {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+}
+
+#__react-alert__ div {
+  position: static !important;
+  z-index: 0 !important;
+  pointer-events: auto !important;
+}

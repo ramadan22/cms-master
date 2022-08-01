@@ -1,0 +1,25 @@
+[
+  {
+    "text": "Dashboard",
+    "slug": "dashboard",
+    "route": "/dashboard",
+    "child": []
+  },
+  {
+    "text": "Pengaturan",
+    "slug": "settings",
+    "route": "",
+    "child": [
+      {
+        "text": "Hak Akses",
+        "slug": "permission",
+        "route": "/settings/permission"
+      },
+      {
+        "text": "Pengguna",
+        "slug": "users",
+        "route": "/settings/users"
+      }
+    ]
+  }
+]
